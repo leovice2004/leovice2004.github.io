@@ -29,10 +29,10 @@ permalink: /hall_of_fame/
     <div class="player-team">Los Angeles Dodgers</div>
 
     <table class="stats-table">
-        <tr><td class="label">AVG</td><td>.290</td></tr>
-        <tr><td class="label">HR</td><td>44</td></tr>
-        <tr><td class="label">RBI</td><td>95</td></tr>
-        <tr><td class="label">OPS</td><td>1.050</td></tr>
+        <tr><td class="label">AVG</td><td>.282</td></tr>
+        <tr><td class="label">HR</td><td>280</td></tr>
+        <tr><td class="label">RBI</td><td>669</td></tr>
+        <tr><td class="label">OPS</td><td>.957</td></tr>
     </table>
 </div>
 
