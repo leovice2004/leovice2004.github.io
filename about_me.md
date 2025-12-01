@@ -34,9 +34,15 @@ Fui laboratorista de la materia de Economía II como parte de mi servicio social
 - Gestión
 
 ## Hobbies
-- Fútbol
-- Aficionado del FC Barcelona y Pumas
+- Ver deportes
 - Cine
 - Series
 - Leer
 
+## Mis equipos
+- FC Barcelona
+- Pumas de la UNAM
+- Los Angeles Dodgers
+- Los Angeles Lakers
+- Cincinatti Bengals
+- Ferrari
