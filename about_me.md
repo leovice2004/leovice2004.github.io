@@ -32,10 +32,10 @@ Fui laboratorista de la materia de Economía II como parte de mi servicio social
 - Control  
 - Gestión
 
-##Hobbies
--Fútbol
--Aficionado del FC Barcelona y Pumas
--Cine
--Series
--Leer
+## Hobbies
+- Fútbol
+- Aficionado del FC Barcelona y Pumas
+- Cine
+- Series
+- Leer
 
