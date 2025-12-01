@@ -50,4 +50,125 @@ permalink: /hall_of_fame/
     </table>
 </div>
 
+<!-- === JUGADOR 4 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+
+<!-- === JUGADOR 5 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+
+<!-- === JUGADOR 6 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+<!-- === JUGADOR 7 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+<!-- === JUGADOR 8 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+<!-- === JUGADOR 9 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+
+<!-- === JUGADOR 10 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+<!-- === JUGADOR 11 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+<!-- === JUGADOR 12 === -->
+<div class="player-card">
+    <img class="player-img" src="https://i.imgur.com/mZa8AgG.png" alt="Jugador 3">
+    <div class="player-name">Aaron Judge</div>
+    <div class="player-team">New York Yankees</div>
+
+    <table class="stats-table">
+        <tr><td class="label">AVG</td><td>.287</td></tr>
+        <tr><td class="label">HR</td><td>62</td></tr>
+        <tr><td class="label">RBI</td><td>131</td></tr>
+        <tr><td class="label">OPS</td><td>1.111</td></tr>
+    </table>
+</div>
+
 </div>
