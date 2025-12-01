@@ -1,3 +1,6 @@
+---
+layout: deafult
+Title: "Fútbol"
 
 <div class="player-grid">
 
