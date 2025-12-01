@@ -1,3 +1,3 @@
 layout: default
 title: "Contacto"
-permalink: /contacto
+permalink: /contacto/
