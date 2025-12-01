@@ -19,7 +19,7 @@ permalink: /hall_of_fame/
         <tr><td class="label">Asistencias</td><td>405</td></tr>
         <tr><td class="label">Campeonatos</td><td>45</td></tr>
         <tr><td class="label">Equipos</td><td>3</td></tr>
-        <tr><td class="label">Ver historia Completa</td><td>[Click Aquí](https://www.olympics.com/es/atletas/lionel-messi)</td></tr>
+        <tr><td class="label">Ver historia Completa</td><td><a href="https://www.olympics.com/es/atletas/lionel-messi" target="_blank">Click Aquí</a></td></tr>
     </table>
 </div>
 
