@@ -6,7 +6,7 @@ permalink: /about_me/
 
 ---
 
-# About Me
+# Hola, Soy Leonardo Villarreal
 
 ## Mi perfil
 Actualmente me encuentro iniciando el quinto semestre de las licenciaturas de Ciencia de Datos y Actuaría en el ITAM.
