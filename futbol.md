@@ -1,6 +1,8 @@
 ---
 layout: deafult
-Title: "Fútbol"
+title: "Fútbol"
+permalink: /futbol/
+---
 
 <div class="player-grid">
 
