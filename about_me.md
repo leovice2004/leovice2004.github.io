@@ -9,7 +9,8 @@ permalink: /about_me/
 # About Me
 
 ## Mi perfil
-Actualmente me encuentro iniciando el quinto semestre de las licenciaturas de Ciencia de Datos y Actuaría en el ITAM, donde mantengo un promedio de 9.5.  
+Actualmente me encuentro iniciando el quinto semestre de las licenciaturas de Ciencia de Datos y Actuaría en el ITAM.
+
 Fui laboratorista de la materia de Economía II como parte de mi servicio social y actualmente trabajo en el área de vinculación del equipo de Becas Integrales Universitarias (BIU), donde se otorgan becas a estudiantes destacados de bajos recursos que estudian en otras escuelas.
 
 ## Formación
