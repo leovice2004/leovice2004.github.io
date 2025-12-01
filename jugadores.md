@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Jugadores
+title: "Jugadores"
 permalink: /jugadores/
 
 ---
