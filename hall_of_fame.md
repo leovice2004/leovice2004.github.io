@@ -10,15 +10,15 @@ permalink: /hall_of_fame/
 
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
-    <img class="player-img" src="https://i.imgur.com/1Q9Z1ZP.png" alt="Jugador 1">
-    <div class="player-name">Mike Trout</div>
-    <div class="player-team">Los Angeles Angels</div>
+    <img class="player-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezOZo3cut2Go-JCSH26qVRQpG4MJRNe2D9w&s" alt="Jugador 1">
+    <div class="player-name">Lionel Andrés Messi</div>
+    <div class="player-team">Inter de Miami</div>
 
     <table class="stats-table">
-        <tr><td class="label">AVG</td><td>.303</td></tr>
-        <tr><td class="label">HR</td><td>40</td></tr>
-        <tr><td class="label">RBI</td><td>104</td></tr>
-        <tr><td class="label">OPS</td><td>1.000</td></tr>
+        <tr><td class="label">Goles</td><td>896</td></tr>
+        <tr><td class="label">Asistencias</td><td>405</td></tr>
+        <tr><td class="label">Campeonatos</td><td>45</td></tr>
+        <tr><td class="label">Equipos</td><td>3</td></tr>
     </table>
 </div>
 
