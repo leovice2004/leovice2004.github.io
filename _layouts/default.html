@@ -5,86 +5,137 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | {{ site.title }}</title>
 
-    <!-- Usa tu CSS actual -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
 
     <style>
         body {
-            font-family: 'Montserrat', sans-serif;
-            background: #f6f3ee;
             margin: 0;
+            font-family: 'Montserrat', sans-serif;
+            background: #f4f4f4;
             color: #0b2340;
         }
 
         header {
             background: #0b2340;
             padding: 20px 0;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
         }
 
         nav ul {
-            list-style: none;
             display: flex;
             justify-content: center;
-            gap: 25px;
+            gap: 30px;
+            list-style: none;
             padding: 0;
             margin: 0;
         }
 
-        nav ul li a {
+        nav a {
             color: white;
-            font-weight: 600;
             text-decoration: none;
+            font-weight: 600;
             padding: 8px 14px;
             border-radius: 8px;
             transition: 0.2s;
         }
 
-        nav ul li a:hover {
+        nav a:hover {
             background: #d62828;
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1000px;
+            margin: 40px auto;
             background: white;
-            margin: auto;
             padding: 30px;
             border-radius: 12px;
-            box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.06);
         }
 
         footer {
             text-align: center;
             padding: 20px;
-            font-size: 0.9rem;
+            color: #666;
             margin-top: 40px;
-            color: #707070;
+        }
+
+        /* PLAYER CARDS */
+        .player-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .player-card {
+            background: white;
+            border-radius: 14px;
+            padding: 18px;
+            border: 2px solid #0b2340;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+            transition: 0.3s ease;
+        }
+
+        .player-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+        }
+
+        .player-img {
+            width: 100%;
+            border-radius: 12px;
+        }
+
+        .player-name {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-top: 10px;
+        }
+
+        .player-team {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #d62828;
+            margin-bottom: 10px;
+        }
+
+        .stats-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .stats-table td {
+            padding: 6px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .stats-table td.label {
+            font-weight: 600;
         }
     </style>
 </head>
 
 <body>
 
-    <header>
-        <nav>
-            <ul>
-                <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                <li><a href="{{ '/about_me/' | relative_url }}">About Me</a></li>
-                <li><a href="{{ '/contacto/' | relative_url }}">Contacto</a></li>
-            </ul>
-        </nav>
-    </header>
+<header>
+    <nav>
+        <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/players/' | relative_url }}">Jugadores</a></li>
+            <li><a href="{{ '/about_me/' | relative_url }}">About Me</a></li>
+        </ul>
+    </nav>
+</header>
 
-    <div class="container">
-        {{ content }}
-    </div>
+<div class="container">
+    {{ content }}
+</div>
 
-    <footer>
-        © {{ site.title }}
-    </footer>
+<footer>
+    © {{ site.title }} — Baseball Stats Page
+</footer>
 
 </body>
 </html>
+
