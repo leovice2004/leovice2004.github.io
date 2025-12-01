@@ -71,23 +71,44 @@ permalink: /hall_of_fame/
 
 <div class="goat-grid">
 
-<a class="card-link" href="{{ '/goats/futbol/' | relative_url }}">
+<a class="card-link" href="{{ '/futbol/' | relative_url }}">
     <div class="card-pack">
         <h2>FUTBOL GOATS</h2>
         <p>Haz click para abrir</p>
     </div>
 </a>
 
-<a class="card-link" href="{{ '/goats/baseball/' | relative_url }}">
+<a class="card-link" href="{{ '/baseball/' | relative_url }}">
     <div class="card-pack">
         <h2>BASEBALL GOATS</h2>
         <p>Haz click para abrir</p>
     </div>
 </a>
 
-<a class="card-link" href="{{ '/goats/basket/' | relative_url }}">
+<a class="card-link" href="{{ '/basketball/' | relative_url }}">
     <div class="card-pack">
         <h2>BASKETBALL GOATS</h2>
+        <p>Haz click para abrir</p>
+    </div>
+</a>
+
+<a class="card-link" href="{{ '/futbol_americano/' | relative_url }}">
+    <div class="card-pack">
+        <h2> FÚTBOL AMERICANO GOATS</h2>
+        <p>Haz click para abrir</p>
+    </div>
+</a>
+
+<a class="card-link" href="{{ '/box/' | relative_url }}">
+    <div class="card-pack">
+        <h2>BOX GOATS</h2>
+        <p>Haz click para abrir</p>
+    </div>
+</a>
+
+<a class="card-link" href="{{ '/f1/' | relative_url }}">
+    <div class="card-pack">
+        <h2>F1 GOATS</h2>
         <p>Haz click para abrir</p>
     </div>
 </a>
