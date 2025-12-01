@@ -9,3 +9,12 @@ body {
 h1 {
   color: #333;
 }
+nav ul li a {
+  color: black !important;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
