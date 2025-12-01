@@ -1,7 +1,1 @@
----
-
-layout: default
-title: Inicio
-permalink: /
-
----
+# Bienvenidos 
