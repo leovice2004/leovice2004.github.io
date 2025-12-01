@@ -4,7 +4,7 @@ title: "Hall of fame"
 permalink: /hall_of_fame/
 ---
 
-# Jugadores Destacados ⚾️
+# Los G.O.A.T.S 🐐
 
 <div class="player-grid">
 
