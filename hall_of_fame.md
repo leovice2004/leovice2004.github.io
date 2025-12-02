@@ -4,7 +4,7 @@ title: "Hall of fame"
 permalink: /hall_of_fame/
 ---
 
-# Los G.O.A.T.S 🐐
+# THE G.O.A.T.S 🐐
 
 <style>
 .goat-grid {
