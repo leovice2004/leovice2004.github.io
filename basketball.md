@@ -37,7 +37,7 @@ permalink: /basketball/
 
 <!-- === JUGADOR 3 === -->
 <div class="player-card">
-    <img class="player-img" src="https://static.wikia.nocookie.net/universecwsports/images/e/eb/AbdulJabbar.jpg/revision/latest?cb=20211214162653&path-prefix=es" alt="Kareem Abdul-Jabbar">
+    <img class="player-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55dkth55ADF7jGNQFf28lL24UTd1wOml6dw&s" alt="Kareem Abdul-Jabbar">
     <div class="player-name">Kareem Abdul-Jabbar</div>
     <div class="player-team">Los Angeles Lakers</div>
 
