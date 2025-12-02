@@ -6,7 +6,15 @@ permalink: /about_me/
 
 ---
 
-# Hola, Soy Leonardo Villarreal
+<div style="display:flex; align-items:center; gap:20px; margin-bottom:30px;">
+
+  <!-- Imagen en círculo -->
+  <img src="/assets/images/tu-foto.jpg" alt="Leonardo Villarreal" style="width:120px; height:120px; border-radius:50%; object-fit:cover; border:3px solid #d62828;">
+
+  <!-- Nombre -->
+  <h1 style="margin:0; font-size:2.5rem; color:#0b2340;">Hola, Soy Leonardo Villarreal</h1>
+
+</div>
 
 ## Mi perfil
 Actualmente me encuentro iniciando el quinto semestre de las licenciaturas de Ciencia de Datos y Actuaría en el ITAM.
@@ -44,5 +52,5 @@ Fui laboratorista de la materia de Economía II como parte de mi servicio social
 - Pumas de la UNAM
 - Los Angeles Dodgers
 - Los Angeles Lakers
-- Cincinatti Bengals
+- Cincinnati Bengals
 - Ferrari
