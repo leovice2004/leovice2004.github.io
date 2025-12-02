@@ -3,6 +3,8 @@ layout: default
 title: "Baseball"
 permalink: /baseball/
 ---
+# Baseball G.O.A.T.S
+
 <div class="player-grid">
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
