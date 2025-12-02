@@ -1,3 +1,0 @@
-layout: default
-title: "Contacto"
-permalink: /contacto/
