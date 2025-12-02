@@ -37,7 +37,7 @@ permalink: /futbol/
 
 <!-- === JUGADOR 3 === -->
 <div class="player-card">
-    <img class="player-img" src="https://www.billboard.com/wp-content/uploads/2022/12/01-pele-billboard-espanol-1548.jpg" alt="Pelé">
+    <img class="player-img" src="https://static01.nyt.com/images/2022/12/22/multimedia/29pele-photos-ESP-1/00pele-photos-1-32de-superJumbo.jpg" alt="Pelé">
     <div class="player-name">Pelé</div>
     <div class="player-team">Santos / New York Cosmos</div>
 
