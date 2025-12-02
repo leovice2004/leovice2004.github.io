@@ -23,7 +23,7 @@ permalink: /futbol/
 
 <!-- === JUGADOR 2 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cristiano_Ronaldo_2018.jpg" alt="Cristiano Ronaldo">
+    <img class="player-img" src="https://www.shutterstock.com/image-photo/leipzig-germany-june-18-2024-600nw-2480563319.jpg" alt="Cristiano Ronaldo">
     <div class="player-name">Cristiano Ronaldo</div>
     <div class="player-team">Al Nassr / Real Madrid</div>
 
@@ -37,7 +37,7 @@ permalink: /futbol/
 
 <!-- === JUGADOR 3 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Pelé_1961.jpg" alt="Pelé">
+    <img class="player-img" src="https://www.billboard.com/wp-content/uploads/2022/12/01-pele-billboard-espanol-1548.jpg" alt="Pelé">
     <div class="player-name">Pelé</div>
     <div class="player-team">Santos / New York Cosmos</div>
 
@@ -51,7 +51,7 @@ permalink: /futbol/
 
 <!-- === JUGADOR 4 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Diego_Maradona_1986.jpg" alt="Diego Maradona">
+    <img class="player-img" src="https://hips.hearstapps.com/hmg-prod/images/muere-maradona-1606326764.jpg?crop=0.845xw:1.00xh;0.0783xw,0&resize=640:*" alt="Diego Maradona">
     <div class="player-name">Diego Maradona</div>
     <div class="player-team">Napoli / Argentina</div>
 
@@ -65,7 +65,7 @@ permalink: /futbol/
 
 <!-- === JUGADOR 5 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Zinedine_Zidane.jpg" alt="Zinedine Zidane">
+    <img class="player-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWG9Oravh05Grw4bJQ4WxsSuHW3eTPUyRthg&s" alt="Zinedine Zidane">
     <div class="player-name">Zinedine Zidane</div>
     <div class="player-team">Real Madrid / Francia</div>
 
@@ -76,5 +76,20 @@ permalink: /futbol/
         <tr><td class="label">Copas del Mundo</td><td>1</td></tr>
     </table>
 </div>
+<!-- === JUGADOR 6 === -->
+<div class="player-card">
+    <img class="player-img" src="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/1112D/production/_99633996_gettyimages-56239737.jpg.webp" alt="Ronaldinho">
+    <div class="player-name">Ronaldinho</div>
+    <div class="player-team">Barcelona / Brasil</div>
+
+    <table class="stats-table">
+        <tr><td class="label">Goles</td><td>266</td></tr>
+        <tr><td class="label">Asistencias</td><td>150+</td></tr>
+        <tr><td class="label">Títulos</td><td>20+</td></tr>
+        <tr><td class="label">Balón de Oro</td><td>1</td></tr>
+        <tr><td class="label">Copas del Mundo</td><td>1</td></tr>
+    </table>
+</div>
+
 
 </div>
