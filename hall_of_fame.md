@@ -16,7 +16,7 @@ permalink: /hall_of_fame/
 .card-pack {
     width: 260px;
     height: 380px;
-    background: linear-gradient(135deg, #0b2340, #1a3d68, #0b2340);
+    background-image: url('https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/8051708025064.jpg?scale=500&qlty=75');
     border: 4px solid #d62828;
     border-radius: 18px;
     padding: 20px;
