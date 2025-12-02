@@ -58,7 +58,7 @@ permalink: /hall_of_fame/
 
 .card-pack p {
     text-align: center;
-    color: #ffcccb;
+    color: black;
     margin-top: 10px;
     font-size: 0.9rem;
     font-weight: 600;
