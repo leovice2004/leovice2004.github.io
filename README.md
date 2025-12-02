@@ -10,7 +10,7 @@ Bienvenidos a <span style="color:#d62828;">G.O.A.T.S Sports</span> 🐐
 Esta página está dedicada a los <strong>G.O.A.T.S</strong> de los deportes: los jugadores que han dejado huella en la historia con su talento, récords y logros. Aquí podrás explorar tarjetas con estadísticas, fotos y la trayectoria completa de tus atletas favoritos de fútbol, baseball, basketball, NFL, boxeo, Fórmula 1 y más.
 </p>
 
-<img src="https://img.freepik.com/premium-photo/goat-wearing-crown-is-wearing-white-suit-with-gold-crown_891301-700.jpg" alt="Leonardo Villarreal" style="width:300px; height:300px;">
+<img src="https://img.freepik.com/premium-photo/goat-wearing-crown-is-wearing-white-suit-with-gold-crown_891301-700.jpg" alt="Leonardo Villarreal" style="width:1200px; height:400px;">
 
 
 <p style="font-size:1.05rem; color:#555; line-height:1.6;">
