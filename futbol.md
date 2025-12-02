@@ -3,7 +3,7 @@ layout: default
 title: "Fútbol"
 permalink: /futbol/
 ---
-
+# Fútbol G.O.A.T.S
 <div class="player-grid">
 
 <!-- === JUGADOR 1 === -->
