@@ -51,28 +51,28 @@ permalink: /playlist/
 <a class="playlist-link" href="https://open.spotify.com/playlist/38GGgiwpJO8JVi7dPE4FKO?si=NE8ikwTeRYem8NUncCQosA" target="_blank">
     <div class="playlist-card">
         <h2>Fútbol</h2>
-        <p>Playlist de goles y mejores momentos ⚽</p>
+        <p>Escúchala antes de regatear y definir ⚽</p>
     </div>
 </a>
 
 <!-- Baseball -->
-<a class="playlist-link" href="https://open.spotify.com/playlist/37i9dQZF1DWV6vTb2Q5a8h" target="_blank">
+<a class="playlist-link" href="https://open.spotify.com/playlist/7LjQHK27LQ8aJ1lDnS4oNx?si=b3Ss6jdMRneDG7hITVcEwg" target="_blank">
     <div class="playlist-card">
         <h2>Baseball</h2>
-        <p>Playlist para motivarte ⚾</p>
+        <p>Playlist de tus ídolos del baseball ⚾</p>
     </div>
 </a>
 
 <!-- Basketball -->
-<a class="playlist-link" href="https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk" target="_blank">
+<a class="playlist-link" href="https://open.spotify.com/playlist/4f6Nqw2CnrqcuIHR5k1W5P?si=9d9VZDoPStCoEeYYbWjbpQ" target="_blank">
     <div class="playlist-card">
         <h2>Basketball</h2>
-        <p>Playlist para los mejores tiros 🏀</p>
+        <p>Playlist para los mejores triples 🏀</p>
     </div>
 </a>
 
 <!-- Fútbol Americano -->
-<a class="playlist-link" href="https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda" target="_blank">
+<a class="playlist-link" href="https://open.spotify.com/playlist/6KNruzKpF3ZZUUfjRJHcMV?si=vjXFI8S5S2iQWN3YQQEgsA" target="_blank">
     <div class="playlist-card">
         <h2>Fútbol Americano</h2>
         <p>Playlist de touchdowns y adrenalina 🏈</p>
@@ -80,7 +80,7 @@ permalink: /playlist/
 </a>
 
 <!-- Box -->
-<a class="playlist-link" href="https://open.spotify.com/playlist/37i9dQZF1DWZrqjCS3p1YH" target="_blank">
+<a class="playlist-link" href="https://open.spotify.com/playlist/7BjPPggSVPDl0gUtlTvqH0?si=brSmQD8KSIWa_vwJFbLCQg" target="_blank">
     <div class="playlist-card">
         <h2>Box</h2>
         <p>Playlist para pelear con ritmo 🥊</p>
@@ -88,7 +88,7 @@ permalink: /playlist/
 </a>
 
 <!-- F1 -->
-<a class="playlist-link" href="https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd" target="_blank">
+<a class="playlist-link" href="https://open.spotify.com/playlist/286L0KkE3PwMWvJzxwe70l?si=4uYwv5pbTTSiiHqZYIQTjg" target="_blank">
     <div class="playlist-card">
         <h2>F1</h2>
         <p>Playlist para acelerar 🏎️</p>
