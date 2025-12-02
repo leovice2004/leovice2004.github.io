@@ -74,42 +74,42 @@ permalink: /hall_of_fame/
 <a class="card-link" href="{{ '/futbol/' | relative_url }}">
     <div class="card-pack">
         <h2>FÚTBOL GOATS</h2>
-        <p>Haz click para abrir</p>
+        <p>Haz click para abrir sobre</p>
     </div>
 </a>
 
 <a class="card-link" href="{{ '/baseball/' | relative_url }}">
     <div class="card-pack">
         <h2>BASEBALL GOATS</h2>
-        <p>Haz click para abrir</p>
+        <p>Haz click para abri sobrer</p>
     </div>
 </a>
 
 <a class="card-link" href="{{ '/basketball/' | relative_url }}">
     <div class="card-pack">
         <h2>BASKETBALL GOATS</h2>
-        <p>Haz click para abrir</p>
+        <p>Haz click para abrir sobre</p>
     </div>
 </a>
 
 <a class="card-link" href="{{ '/futbol_americano/' | relative_url }}">
     <div class="card-pack">
         <h2> NFL GOATS</h2>
-        <p>Haz click para abrir</p>
+        <p>Haz click para abrir sobre</p>
     </div>
 </a>
 
 <a class="card-link" href="{{ '/box/' | relative_url }}">
     <div class="card-pack">
         <h2>BOXING GOATS</h2>
-        <p>Haz click para abrir</p>
+        <p>Haz click para abrir sobre</p>
     </div>
 </a>
 
 <a class="card-link" href="{{ '/f1/' | relative_url }}">
     <div class="card-pack">
         <h2>F1 GOATS</h2>
-        <p>Haz click para abrir</p>
+        <p>Haz click para abrir sobre</p>
     </div>
 </a>
 
