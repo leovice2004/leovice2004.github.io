@@ -16,7 +16,7 @@ permalink: /playlist/
 }
 
 .playlist-card {
-    background: linear-gradient(135deg, #0b2340, #1a3d68);
+    background: linear-gradient(135deg, rgba(11,35,64,0.7), rgba(26,61,104,0.7)),url('https://assets.goal.com/images/v3/blt77343c47650bbfc1/2342f72fb9136c85780213e2ad65de2843a40911.jpg?auto=webp&format=pjpg&width=3840&quality=60');
     border: 3px solid #d62828;
     border-radius: 18px;
     padding: 20px;
