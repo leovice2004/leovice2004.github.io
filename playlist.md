@@ -5,6 +5,7 @@ permalink: /playlist/
 ---
 
 # Vuélvete un G.O.A.T 🎵🏆
+## Vuélvete un G.O.A.T con estas canciones pre-acción, como Lionel Messi en la Copa del Mundo de Qatar 2022, Ohtani en la Serie Mundial 2025, Jordan con los Bulls, Ali en el ring, Senna en Mónaco y Brady en el Superbowl...
 
 <style>
 .playlist-grid {
