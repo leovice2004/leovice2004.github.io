@@ -16,22 +16,61 @@ permalink: /playlist/
 }
 
 .playlist-card {
-    background: linear-gradient(135deg, rgba(11,35,64,0.7), rgba(26,61,104,0.7)),url('https://assets.goal.com/images/v3/blt77343c47650bbfc1/2342f72fb9136c85780213e2ad65de2843a40911.jpg?auto=webp&format=pjpg&width=3840&quality=60');
-    border: 3px solid #d62828;
+    position: relative;
     border-radius: 18px;
-    padding: 20px;
+    overflow: hidden; /* asegura que el gradiente y la imagen respeten los bordes */
+    border: 3px solid #d62828;
     box-shadow: 0 8px 22px rgba(0,0,0,0.25);
     text-align: center;
     transition: transform 0.25s ease, box-shadow 0.25s ease;
+    cursor: pointer;
 }
 
+/* Imagen de fondo */
+.playlist-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://assets.goal.com/images/v3/blt77343c47650bbfc1/2342f72fb9136c85780213e2ad65de2843a40911.jpg?auto=webp&format=pjpg&width=3840&quality=60') center/cover no-repeat;
+    z-index: 1;
+    transition: transform 0.3s ease;
+}
+
+/* Gradiente oscuro encima de la imagen */
+.playlist-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(11,35,64,0.7), rgba(26,61,104,0.7));
+    z-index: 2;
+    transition: background 0.3s ease;
+}
+
+/* Contenido dentro del card */
+.playlist-card > * {
+    position: relative;
+    z-index: 3; /* para que esté sobre la imagen y el gradiente */
+    padding: 20px;
+    color: #fff; /* texto visible sobre el gradiente */
+}
+
+/* Hover efecto */
 .playlist-card:hover {
     transform: translateY(-6px) scale(1.02);
     box-shadow: 0 12px 28px rgba(0,0,0,0.35);
 }
 
+.playlist-card:hover::before {
+    transform: scale(1.05); /* imagen se hace un poco más grande al pasar el mouse */
+}
+
 .playlist-card h2 {
-    color: white;
     font-size: 1.5rem;
     margin-bottom: 10px;
 }
