@@ -3,7 +3,7 @@
 <div style="text-align:center; max-width:900px; margin:60px auto; padding:0 20px;">
 
 <h1 style="font-size:2.5rem; font-weight:700; color:#0b2340; margin-bottom:20px;">
-Bienvenidos a <span style="color:#d62828;">GOATS Sports</span> 🐐
+Bienvenidos a <span style="color:#d62828;">G.O.A.T.S Sports</span> 🐐
 </h1>
 
 <p style="font-size:1.15rem; color:#333; line-height:1.8; margin-bottom:30px;">
