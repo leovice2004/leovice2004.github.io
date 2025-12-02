@@ -7,7 +7,7 @@ permalink: /basketball/
 <div class="player-grid">
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
-    <img class="https://i.pinimg.com/474x/6f/4f/dc/6f4fdc6081ba056fb5fa92f03f86109f.jpg" alt="Michael Jordan">
+    <img class="https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/michael-jordan-in-action.jpg" alt="Michael Jordan">
     <div class="player-name">Michael Jordan</div>
     <div class="player-team">Chicago Bulls</div>
 
