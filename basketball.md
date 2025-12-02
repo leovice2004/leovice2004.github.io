@@ -3,7 +3,7 @@ layout: default
 title: "Basketball"
 permalink: /basketball/
 ---
-
+# Basketball G.O.A.T.S
 <div class="player-grid">
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
