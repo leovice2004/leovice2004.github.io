@@ -48,7 +48,7 @@ permalink: /playlist/
 <div class="playlist-grid">
 
 <!-- Fútbol -->
-<a class="playlist-link" href="https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F" target="_blank">
+<a class="playlist-link" href="https://open.spotify.com/playlist/38GGgiwpJO8JVi7dPE4FKO?si=NE8ikwTeRYem8NUncCQosA" target="_blank">
     <div class="playlist-card">
         <h2>Fútbol</h2>
         <p>Playlist de goles y mejores momentos ⚽</p>
