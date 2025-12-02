@@ -9,7 +9,7 @@ permalink: /about_me/
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:30px;">
 
   <!-- Imagen en círculo -->
-  <img src="/assets/images/tu-foto.jpg" alt="Leonardo Villarreal" style="width:120px; height:120px; border-radius:50%; object-fit:cover; border:3px solid #d62828;">
+  <img src="https://i.pinimg.com/736x/30/76/27/307627a74ee8d0297f28984468fdbd50.jpg" alt="Leonardo Villarreal" style="width:120px; height:120px; border-radius:50%; object-fit:cover; border:3px solid #d62828;">
 
   <!-- Nombre -->
   <h1 style="margin:0; font-size:2.5rem; color:#0b2340;">Hola, Soy Leonardo Villarreal</h1>
