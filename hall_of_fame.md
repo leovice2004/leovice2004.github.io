@@ -16,7 +16,7 @@ permalink: /hall_of_fame/
 .card-pack {
     width: 260px;
     height: 380px;
-    background-image: url('https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/8051708025064.jpg?scale=500&qlty=75');
+    background-image: url('https://media.istockphoto.com/id/1422211858/es/foto/corona-de-reina-o-rey-sobre-coj%C3%ADn-real-ilustraci%C3%B3n-3d.jpg?s=612x612&w=0&k=20&c=2g6nsYz9dkSByKtRLaokZI22OOad0hzWKw5IZbDVoiY=');
     border: 4px solid #d62828;
     border-radius: 18px;
     padding: 20px;
