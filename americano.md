@@ -3,7 +3,7 @@ layout: default
 title: "Fútbol americano"
 permalink: /futbol_americano/
 ---
-
+# NFL G.O.A.T.S
 <div class="player-grid">
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
