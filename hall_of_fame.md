@@ -81,7 +81,7 @@ permalink: /hall_of_fame/
 <a class="card-link" href="{{ '/baseball/' | relative_url }}">
     <div class="card-pack">
         <h2>BASEBALL GOATS</h2>
-        <p>Haz click para abri sobre</p>
+        <p>Haz click para abrir sobre</p>
     </div>
 </a>
 
