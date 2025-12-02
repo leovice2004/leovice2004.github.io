@@ -73,7 +73,7 @@ permalink: /hall_of_fame/
 
 <a class="card-link" href="{{ '/futbol/' | relative_url }}">
     <div class="card-pack">
-        <h2>FUTBOL GOATS</h2>
+        <h2>FÚTBOL GOATS</h2>
         <p>Haz click para abrir</p>
     </div>
 </a>
@@ -94,14 +94,14 @@ permalink: /hall_of_fame/
 
 <a class="card-link" href="{{ '/futbol_americano/' | relative_url }}">
     <div class="card-pack">
-        <h2> FÚTBOL AMERICANO GOATS</h2>
+        <h2> NFL GOATS</h2>
         <p>Haz click para abrir</p>
     </div>
 </a>
 
 <a class="card-link" href="{{ '/box/' | relative_url }}">
     <div class="card-pack">
-        <h2>BOX GOATS</h2>
+        <h2>BOXING GOATS</h2>
         <p>Haz click para abrir</p>
     </div>
 </a>
