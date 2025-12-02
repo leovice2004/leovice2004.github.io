@@ -6,7 +6,7 @@ permalink: /baseball/
 <div class="player-grid">
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Babe_Ruth_1920s.jpg" alt="Babe Ruth">
+    <img class="player-img" src="https://m.media-amazon.com/images/I/71OLJcu7shL._AC_UF894,1000_QL80_.jpg" alt="Babe Ruth">
     <div class="player-name">Babe Ruth</div>
     <div class="player-team">New York Yankees</div>
 
@@ -20,7 +20,7 @@ permalink: /baseball/
 
 <!-- === JUGADOR 2 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Lou_Gehrig_1924.jpg" alt="Lou Gehrig">
+    <img class="player-img" src="https://cdn.britannica.com/57/11557-050-1B5685F6/Lou-Gehrig-1939.jpg" alt="Lou Gehrig">
     <div class="player-name">Lou Gehrig</div>
     <div class="player-team">New York Yankees</div>
 
@@ -34,7 +34,7 @@ permalink: /baseball/
 
 <!-- === JUGADOR 3 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ted_Williams_1951.jpg" alt="Ted Williams">
+    <img class="player-img" src="https://cdn.britannica.com/35/274335-050-F68B0C70/Ted-Williams-Boston-Red-Sox-1950s-major-league-baseball-player.jpg" alt="Ted Williams">
     <div class="player-name">Ted Williams</div>
     <div class="player-team">Boston Red Sox</div>
 
@@ -48,7 +48,7 @@ permalink: /baseball/
 
 <!-- === JUGADOR 4 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Hank_Aaron_1974.jpg" alt="Hank Aaron">
+    <img class="player-img" src="https://ashof.org/wp-content/uploads/2019/09/hank-aaron.jpg" alt="Hank Aaron">
     <div class="player-name">Hank Aaron</div>
     <div class="player-team">Atlanta Braves</div>
 
@@ -62,7 +62,7 @@ permalink: /baseball/
 
 <!-- === JUGADOR 5 === -->
 <div class="player-card">
-    <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sach_Ruth.jpg" alt="Willie Mays">
+    <img class="player-img" src="https://s.abcnews.com/images/US/ss-willie-mays-01-gty-jt-220415_1650903537756_sl_10x13_1600.jpg?w=1600" alt="Willie Mays">
     <div class="player-name">Willie Mays</div>
     <div class="player-team">San Francisco Giants</div>
 
