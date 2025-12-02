@@ -3,6 +3,7 @@ layout: default
 title: "Baseball"
 permalink: /baseball/
 ---
+<div class="player-grid">
 <!-- === JUGADOR 1 === -->
 <div class="player-card">
     <img class="player-img" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Babe_Ruth_1920s.jpg" alt="Babe Ruth">
@@ -90,4 +91,5 @@ permalink: /baseball/
         <tr><td class="label">W-L</td><td>39-20</td></tr>
         <tr><td class="label">SO</td><td>670</td></tr>
     </table>
+</div>
 </div>
