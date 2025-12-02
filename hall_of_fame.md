@@ -48,7 +48,7 @@ permalink: /hall_of_fame/
 }
 
 .card-pack h2 {
-    color: white;
+    color: black;
     text-align: center;
     margin-top: 80px;
     font-size: 1.8rem;
